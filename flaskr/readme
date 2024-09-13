@@ -1,0 +1,10 @@
+Project from "https://flask.palletsprojects.com/en/3.0.x/tutorial/"
+
+To run it, first activate the virtual environment on the console:
+    > myenv/Scripts/activate  
+
+Initiate Database with:
+    > flask --app flaskr init-db
+
+run the application with:
+    > flask --app flaskr run
